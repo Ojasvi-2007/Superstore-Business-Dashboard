@@ -116,7 +116,7 @@ Superstore_Dashboard/
 ├── data/
 │   └──Sample - Superstore.xlsx
 │
-|── src/
+└── src/
     ├── loader.py
     ├── filters.py
     ├── charts.py
