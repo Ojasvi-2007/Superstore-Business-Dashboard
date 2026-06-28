@@ -114,15 +114,13 @@ Superstore_Dashboard/
 ├── .gitignore
 │
 ├── data/
-│   └── superstore.xlsx
+│   └──Sample - Superstore.xlsx
 │
-├── src/
-│   ├── loader.py
-│   ├── filters.py
-│   ├── charts.py
-│   └── kpi_calculator.py
-│
-└── visualizations/
+|── src/
+    ├── loader.py
+    ├── filters.py
+    ├── charts.py
+    └── kpi_calculator.py
 ```
 
 ---
